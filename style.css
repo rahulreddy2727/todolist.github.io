@@ -1,0 +1,16 @@
+.wrapper {
+  width: 40%;
+}
+
+.h1 {
+  font-family: cursive;
+  font-weight: 800;
+  color: white;
+}
+.bg {
+  background-image: url("bg3.png");
+  background-size: cover;
+}
+.form-control {
+  background-color: antiquewhite;
+}
